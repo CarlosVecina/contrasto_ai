@@ -13,12 +13,11 @@
 <img height='70px' src='https://cdn-icons-png.flaticon.com/256/5695/5695864.png'></img>
 </div>
 
-Our open-source AI Governance platform is your **single source of truth** for managing **AI risk, compliance and performance** with deep observability, guardrails and automated monitoring.
+Our open-source AI Governance platform is your **single source of truth** for managing **AI risk, accuracy, robustness and performance** with deep observability, guardrails and automated monitoring.
 </br>
 
-Scale your AI system quickly, securely, and compliantly. **In days, not months**. 
+Stop letting compliance slow down your AI innovation. **Deploy in days, dominate the market**.
 </br>
-Leave your competitors behind!
 
 ---
 
