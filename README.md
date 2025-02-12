@@ -1,20 +1,23 @@
 <div align="center">
   
-  # 🦚 Contrasto AI 
+# 🦚 Contrasto AI 
 
 *Centralize and streamline ML/AI observability and compliance processes.*
 
-<br>
-
   <kbd style="background-color: #ffffd7">**⭐ Drop a star to keep posted on updates.**</kbd>
+  
 
-
+---
+</div>
+<div align="center">
 <img height='70px' src='https://cdn-icons-png.flaticon.com/256/5695/5695864.png'></img>
 </div>
 
-Our open-source AI Governance platform is your **single source of truth** for managing **AI risk, compliance and performance** with deep observability, guardrails and automated monitoring.  
+Our open-source AI Governance platform is your **single source of truth** for managing **AI risk, compliance and performance** with deep observability, guardrails and automated monitoring.
+</br>
 
-Scale your AI system quickly, securely, and compliantly. In days, not months. <br>
+Scale your AI system quickly, securely, and compliantly. **In days, not months**. 
+</br>
 Leave your competitors behind!
 
 ---
